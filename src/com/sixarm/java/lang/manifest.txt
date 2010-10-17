@@ -1,0 +1,11 @@
+Name: com/sixarm/lang
+Specification-Title: "SixArm (tm) com.sixarm.java.lang"
+Specification-Version: "1.0.0"
+Specification-Vendor: "SixArm (tm)"
+Implementation-Title: "SixArm (tm) com.sixarm.java.lang"
+Implementation-Version: "1.0.0"
+Implementation-Vendor: "SixArm (tm)"
+Sealed: true
+Legal1: For redistribution prices and policies, please contact Joel.
+Legal2: Copyright (c) 1994-2005 Joel Henderson. All Rights Reserved.
+Legal3: By Joel Parker Henderson, Joel@SixArm.com 1-415-317-2700.
